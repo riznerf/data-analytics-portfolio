@@ -1,0 +1,151 @@
+product_id,product_name,supplier_id,unit_price,stock_quantity
+PROD0001,Wireless Ergonomic Mouse,SUP6901,24.99,120
+PROD0002,Mechanical Gaming Keyboard,SUP1296,89.99,45
+PROD0003,27-inch 4K IPS Monitor,SUP7250,349.99,15
+PROD0004,HD Webcam 1080p Ultra,SUP7104,49.99,60
+PROD0005,Bluetooth Noise Cancelling Earbuds,SUP6063,79.99,85
+PROD0006,External Hard Drive 2TB USB 3.0,SUP4635,69.99,40
+PROD0007,USB-C Dual Docking Station,SUP5458,59.99,35
+PROD0008,Smartwatch Series 5 Sport,SUP8923,199.99,25
+PROD0009,Laser Color Wireless Printer,SUP8951,249.99,10
+PROD0010,LED Desk Lamp with Wireless Charger,SUP0589,34.99,45
+PROD0011,Pro Gaming Headset with Mic,SUP8524,64.99,50
+PROD0012,16GB DDR5 RAM Kit 5600MHz,SUP8479,85.0,75
+PROD0013,1TB NVMe M.2 Internal SSD,SUP9456,95.0,90
+PROD0014,Wi-Fi 6 Dual-Band Router,SUP2388,119.99,28
+PROD0015,HDMI 2.1 Braided Cable 6ft,SUP2295,12.99,300
+PROD0016,Anti-Theft Laptop Backpack,SUP0379,45.0,40
+PROD0017,Qi Fast Wireless Charging Pad,SUP4086,19.99,110
+PROD0018,RGB LED Strip Light Sync Kit,SUP2540,15.5,150
+PROD0019,Graphics Drawing Tablet Pro,SUP4465,159.99,14
+PROD0020,Electric Compressed Air Duster,SUP5919,39.99,55
+PROD0021,Active Noise Cancelling Headphones,SUP5458,299.99,20
+PROD0022,Portable Waterproof Bluetooth Speaker,SUP1296,49.99,65
+PROD0023,MicroSDXC Memory Card 128GB,SUP8923,18.99,200
+PROD0024,USB 3.0 Flash Drive 64GB Metal,SUP7250,9.99,350
+PROD0025,Uninterruptible Power Supply 1500VA,SUP6063,139.99,12
+PROD0026,CPU Liquid Cooler 240mm RGB,SUP4635,104.99,30
+PROD0027,ATX Mid-Tower PC Case Tempered Glass,SUP7104,89.99,22
+PROD0028,750W 80-Plus Gold Power Supply,SUP6901,115.0,45
+PROD0029,High-Performance Thermal Paste 4g,SUP8951,6.99,400
+PROD0030,Vertical Wireless Mouse,SUP0589,34.99,55
+PROD0031,Dual Monitor Desk Mount Stand,SUP8524,42.5,30
+PROD0032,Lap Desk with Phone Holder,SUP8479,29.99,25
+PROD0033,LED Ring Light with Tripod Stand,SUP9456,39.99,70
+PROD0034,USB Studio Condenser Microphone,SUP2388,89.0,40
+PROD0035,Adjustable Boom Arm Mic Stand,SUP2295,24.99,65
+PROD0036,Dual-Layer Microphone Pop Filter,SUP0379,8.5,120
+PROD0037,Smart Wi-Fi LED Light Bulb RGB,SUP4086,14.99,180
+PROD0038,Smart Plug Mini with Energy Monitor,SUP2540,12.99,220
+PROD0039,Electric Motorized Standing Desk,SUP4465,280.0,8
+PROD0040,Extended XL Gaming Mouse Pad,SUP5919,15.99,140
+PROD0041,Anti-Static Wrist Strap Band,SUP1296,5.99,100
+PROD0042,PC Precision Screwdriver Tool Kit,SUP7250,22.0,80
+PROD0043,Cat6 Ethernet Patch Cable 50ft,SUP6063,19.99,95
+PROD0044,DisplayPort to HDMI Adapter,SUP4635,11.5,150
+PROD0045,USB-C to USB-A 3.0 Adapter 2-Pack,SUP7104,6.99,500
+PROD0046,Webcam Privacy Cover Slider 3-Pack,SUP6901,4.99,600
+PROD0047,Blue Light Blocking Glasses,SUP8951,16.99,85
+PROD0048,Under Desk Cable Management Tray,SUP0589,24.0,40
+PROD0049,Self-Adhesive Cable Management Clips,SUP8524,8.99,350
+PROD0050,Releasable Velcro Cable Ties 50-Pack,SUP8479,9.5,280
+PROD0051,External USB CD/DVD Drive,SUP9456,26.99,38
+PROD0052,Graphics Card Nvidia RTX 4060,SUP2388,329.99,14
+PROD0053,Intel Core i5 Desktop Processor,SUP2295,219.0,20
+PROD0054,AMD Ryzen 7 Desktop Processor,SUP0379,289.0,18
+PROD0055,B650 AMD Socket Motherboard,SUP4086,159.99,25
+PROD0056,Z790 Intel Socket Motherboard,SUP2540,209.99,15
+PROD0057,SATA III Internal Data Cable 3-Pack,SUP4465,7.99,160
+PROD0058,Case Fan 120mm Quiet RGB 3-Pack,SUP5919,34.5,90
+PROD0059,TV Soundbar with Wireless Subwoofer,SUP5458,149.99,22
+PROD0060,4K Waterproof Action Camera,SUP1296,99.99,35
+PROD0061,Digital SLR Camera Body,SUP8923,549.99,8
+PROD0062,Aluminum Camera Tripod Stand,SUP7250,34.99,55
+PROD0063,Camera Lens Cleaning Tool Kit,SUP6063,9.99,130
+PROD0064,E-Reader 8-inch HD Display,SUP4635,129.99,40
+PROD0065,Android Tablet 10-inch 64GB,SUP7104,179.99,30
+PROD0066,Standalone VR Headset 128GB,SUP6901,399.99,12
+PROD0067,Foldable Drone with 1080p Camera,SUP8951,89.99,25
+PROD0068,Handheld GPS Navigator,SUP0589,169.99,15
+PROD0069,Smart Body Fat Scale Bluetooth,SUP8524,24.99,80
+PROD0070,Fitness Tracker Smart Band,SUP8479,39.99,95
+PROD0071,Universal Travel Adapter Worldwide,SUP9456,16.99,150
+PROD0072,AA Rechargeable Batteries 4-Pack,SUP2388,12.99,180
+PROD0073,AAA Rechargeable Batteries 4-Pack,SUP2295,12.99,160
+PROD0074,Smart Battery Charger with LCD,SUP0379,19.5,90
+PROD0075,8-Outlet Surge Protector Strip,SUP4086,19.99,125
+PROD0076,Heavy Duty Extension Cord 15ft,SUP2540,14.99,170
+PROD0077,AA Alkaline Batteries 24-Pack,SUP4465,15.99,400
+PROD0078,AAA Alkaline Batteries 24-Pack,SUP5919,15.99,350
+PROD0079,Digital Luggage Scale Portable,SUP5458,9.99,140
+PROD0080,RFID Blocking Passport Holder,SUP1296,8.99,210
+PROD0081,Electric Sonic Toothbrush,SUP8923,45.0,110
+PROD0082,Cordless Water Flosser,SUP7250,32.99,85
+PROD0083,Ionic Hair Dryer 1870W,SUP6063,29.99,60
+PROD0084,Cordless Beard Trimmer,SUP4635,24.99,75
+PROD0085,Ceramic Hair Straightener,SUP7104,39.99,45
+PROD0086,Electric Neck Massager with Heat,SUP6901,49.99,30
+PROD0087,HEPA Air Purifier for Room,SUP8951,89.99,20
+PROD0088,Cool Mist Ultrasonic Humidifier,SUP0589,26.99,65
+PROD0089,Digital Room Thermometer,SUP8524,11.5,140
+PROD0090,Smart Robot Vacuum Cleaner,SUP8479,210.0,15
+PROD0091,Cordless Stick Vacuum Cleaner,SUP9456,159.99,24
+PROD0092,Handheld Car Vacuum Cleaner 12V,SUP2388,34.99,55
+PROD0093,Electric Glass Kettle 1.7L,SUP2295,27.99,90
+PROD0094,Digital Kitchen Scale Touch,SUP0379,14.99,180
+PROD0095,Programmable Drip Coffee Maker,SUP4086,49.99,35
+PROD0096,Manual Espresso Machine 15 Bar,SUP2540,129.99,14
+PROD0097,Electric Coffee Burr Grinder,SUP4465,19.99,80
+PROD0098,Handheld Electric Milk Frother,SUP5919,9.99,210
+PROD0099,Digital Air Fryer XL 5.8QT,SUP5458,99.99,28
+PROD0100,Precision Sous Vide Cooker,SUP1296,89.99,18
+PROD0101,Bluetooth Meat Thermometer Wireless,SUP8923,35.0,85
+PROD0102,Digital Kitchen Timer 2-Pack,SUP7250,6.99,300
+PROD0103,Motion Sensor Trash Can,SUP6063,49.99,20
+PROD0104,Smart WiFi Video Doorbell,SUP4635,89.99,32
+PROD0105,Outdoor Security Camera Solar,SUP7104,79.99,40
+PROD0106,Smart Door Lock Keyless Entry,SUP6901,149.99,18
+PROD0107,Wireless Home Alarm System Kit,SUP8951,129.99,15
+PROD0108,Bluetooth Tile Key Finder 2-Pack,SUP0589,29.99,100
+PROD0109,OBD2 Car Diagnostic Scanner,SUP8524,34.99,65
+PROD0110,Car Dash Cam 1080p Front,SUP8479,49.99,70
+PROD0111,Bluetooth Car FM Transmitter,SUP9456,15.99,140
+PROD0112,MagSafe Car Mount Charger,SUP2388,24.99,95
+PROD0113,Tablet Car Headrest Mount,SUP2295,18.5,80
+PROD0114,Portable Air Compressor Tire Inflator,SUP0379,45.0,50
+PROD0115,LED Car Interior Ambient Lights,SUP4086,13.99,120
+PROD0116,Dual USB Car Charger Adapter,SUP2540,8.99,250
+PROD0117,JBL Flip Bluetooth Speaker Case,SUP4465,14.99,85
+PROD0118,Hard Case for Beats Headphones,SUP5919,16.99,75
+PROD0119,Nintendo Switch Carrying Case,SUP5458,19.99,110
+PROD0120,PS5 Controller Charging Dock,SUP1296,22.99,85
+PROD0121,Xbox Series X Cooling Stand,SUP8923,27.5,40
+PROD0122,Gamer Thumb Grips 4-Pack,SUP7250,5.99,400
+PROD0123,VR Headset Silicone Face Cover,SUP6063,11.99,150
+PROD0124,Streaming Capture Card 1080p,SUP4635,59.99,25
+PROD0125,Green Screen Portable Backdrop,SUP7104,42.0,30
+PROD0126,Soundproofing Foam Panels 12-Pack,SUP6901,23.99,80
+PROD0127,Optical Toslink Audio Cable 10ft,SUP8951,8.99,180
+PROD0128,3.5mm Aux Audio Cable 6ft,SUP0589,5.5,300
+PROD0129,RCA Audio Cable 6ft Male,SUP8524,7.99,150
+PROD0130,USB-C to 3.5mm Headphone Adapter,SUP8479,9.99,280
+PROD0131,Lightning to 3.5mm Adapter,SUP9456,11.99,260
+PROD0132,USB-C to DisplayPort Cable,SUP2388,17.99,130
+PROD0133,DVI to HDMI Adapter Bi-Directional,SUP2295,6.99,140
+PROD0134,VGA to HDMI Converter with Audio,SUP0379,15.99,90
+PROD0135,USB 3.0 Extension Cable 10ft,SUP4086,8.99,170
+PROD0136,Micro USB Cable 3-Pack 6ft,SUP2540,9.99,240
+PROD0137,Magnetic USB-C Charging Cable,SUP4465,13.99,160
+PROD0138,Ethernet Coupler RJ45 5-Pack,SUP5919,6.5,200
+PROD0139,Network Cable Tester Tool,SUP5458,14.99,75
+PROD0140,RJ45 Pass-Through Connectors 50pc,SUP1296,12.0,180
+PROD0141,Modular Crimping Tool RJ45,SUP8923,21.99,60
+PROD0142,External M.2 NVMe SSD Enclosure,SUP7250,24.99,85
+PROD0143,2.5-inch SATA to USB Adapter,SUP6063,10.99,140
+PROD0144,Internal Wi-Fi Card PCIe,SUP4635,29.99,50
+PROD0145,USB Bluetooth 5.0 Dongle,SUP7104,8.99,220
+PROD0146,USB Wi-Fi Adapter Dual Band,SUP6901,14.99,190
+PROD0147,Graphing Calculator Texas Inst,SUP8951,99.99,40
+PROD0148,Digital Voice Recorder Dictaphone,SUP0589,26.99,65
+PROD0149,Laser Flip Wireless Presenter Clicker,SUP8524,14.99,110
+PROD0150,Electronic Component Starter Kit,SUP8479,35.0,50
