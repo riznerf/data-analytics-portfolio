@@ -1,5 +1,5 @@
 
-## This portfolio contains projects demonstrating my skills in data preparation, database management, data analysis, and visualization.
+## This portfolio project demonstrates my skills in data preparation, database management, data analysis, and visualization.
 
 ---
 
